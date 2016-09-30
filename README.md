@@ -1,6 +1,8 @@
 # Slappy Chess
 An iOS 10 / Swift 3 Chess app.
 
+![](art/screenshot/slappychess.gif?raw=true)
+
 ### Contributing
 See [CONTRIBUTING](CONTRIBUTING.md).
 
